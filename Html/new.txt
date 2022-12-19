@@ -1,0 +1,141 @@
+html meta tags 
+<!DOCTYPE html>
+<title>
+<link>
+<meta>
+<style>
+whichever tags pass the information to the browser known as meta tag
+most of the tags comes in  between <head> tag 
+
+html text tags 
+<p>
+<h1> 2 3 4 5
+<strong>
+<em>
+<cite>
+unclosed tags
+<br> break  the line
+<hr> horizontal line
+
+attributes is a part of tags
+html attributes are special words which provides additional
+information about the elements or attributes are the modifier of the html
+element.
+attritubes should always be present at the start 
+of a tag
+bgcolor
+text 
+style
+anchor
+img 
+elements are responsible for creating web pages and defines 
+content in that webpage
+an element is a collection of start tag,attributes,end tag,
+content between them
+void elements 
+these elements are also called as unpaired tag.
+
+block level elements 
+these are the elements which structure main part of web
+page,by dividing a page into coherent blocks.
+<div>
+<h1>-<6>
+<hr>
+Inline elements
+
+
+html filepath Iframe
+
+file path describe the location of a file in a website folder
+src
+<img src =" picture.jpg">
+
+
+
+Iframes
+HTML iframe is used to display a nested webpage 
+<iframe src = "URL"></iframe>
+
+<tr></tr>
+
+<tr> stands for table row
+
+types of list 
+<ol>
+<li>aries</li>
+<li>bingo</li>
+<li>leo</li>
+<li>oracle</li>
+</ol>
+
+<dt data term
+<dd data definition
+
+html form
+<form action="server url=method="get/post">
+</form>
+
+elements 
+<form>
+<input>
+<textarea>
+<label>
+<fieldset>
+<legend>
+
+form attributes
+target 
+_self default
+_blank new page
+ 
+autocomplete saved info
+enctype
+
+html head
+html head element is used as a container 
+for metadata.it is used between html tag and 
+body tag
+
+head tag
+<title>
+<link>
+<style>
+<script>
+<meta>
+<base>
+stylesheet = relative
+type = type of the line
+href = url
+id is only one on the whole webpage
+dot. = class
+# = id
+when we work with javascript 
+only one id is mandatory
+
+events 
+when a browser reacts on user action, 
+then it is called as an event.
+
+audio tag
+<audio controls>
+<Source src = type="audio/">
+</audio>
+
+
+svg ex
+cricle
+<svg width="100" height="100">
+<cricle cx="50" r="40" stroke="yellow" 
+stroke-width="4" fill="red"/>
+</svg>
+
+
+
+
+svg gradient 
+a gradient is a  smooth transition from one color to another
+in addition several color transitions can be
+applied to the same elements
+two type
+liner
+radial

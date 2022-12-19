@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events </title>
+    <script type="text/javascript">
+        function changeBackground(){
+            document.body.style.background ="yellow";
+
+        }
+        function changeBorder(){
+            document.body.style.border="10px solid"
+        }
+    </script>
+</head>
+<body>
+    <form action="" method="">
+
+<label>First Name:</label>
+<input type="text" name="Firstname" onblur="changeBackground()">
+<label>Last Name</label><input type="text" name="Firstname" onfocus="changeBackground()"><br>
+
+<label>email</label><input type="text" name="Firstname" oninput="changeBorder()">
+
+</form>
+
+</body>
+</html>
